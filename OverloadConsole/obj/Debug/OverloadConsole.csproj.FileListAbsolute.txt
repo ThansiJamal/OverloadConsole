@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\bin\Debug\OverloadConsole.exe.config
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\bin\Debug\OverloadConsole.exe
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\bin\Debug\OverloadConsole.pdb
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\obj\Debug\OverloadConsole.csprojAssemblyReference.cache
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\obj\Debug\OverloadConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\obj\Debug\OverloadConsole.exe
+C:\Users\user\source\repos\OverloadConsole\OverloadConsole\obj\Debug\OverloadConsole.pdb
